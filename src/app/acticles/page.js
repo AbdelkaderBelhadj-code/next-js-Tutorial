@@ -1,6 +1,8 @@
 import Link from "next/link";
 
-
+export const metadata = {
+    title : "Article page"
+}
 export default function ActiclesPage(){
     return(
         <div>
