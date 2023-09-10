@@ -25,3 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+
+.main-div{
+  background-color: yellowgreen;
+  height: 100vh;
+}
